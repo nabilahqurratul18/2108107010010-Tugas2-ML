@@ -2,7 +2,7 @@
 ## SVM Klasifikasi
 ### Jenis Dataset
 https://www.kaggle.com/datasets/aparnashankar/facebook-ads-dataset
-Pada Facebook Ads Dataset ini terdapat beberapa atribut yaitu:
+<br/> Pada Facebook Ads Dataset ini terdapat beberapa atribut yaitu:
 *   Names of people
 *   Time spent on the site
 *   Emails
